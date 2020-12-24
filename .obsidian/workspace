@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "e12c0a5b0019611d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b25792f147c907d",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "semiconductor半导体.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4b864db9a126904",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce1891e001c7f2d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a856d6055d922ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bf11f849a80c5d99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "30f883e518749352",
+    "type": "split",
+    "children": [
+      {
+        "id": "7aca046b6f327fd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01638de2ced976ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "semiconductor半导体.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "semiconductor半导体.md",
+    "Pasted image 20201224115818.png",
+    "Pasted image 20201224115537.png",
+    "Pasted image 20201224115509.png",
+    "N（negative）型半导体.md",
+    "P（positive）型半导体.md",
+    "N（negative）型.md",
+    "P（positive）型.md",
+    "载流子.md",
+    "Untitled.md"
+  ]
+}
